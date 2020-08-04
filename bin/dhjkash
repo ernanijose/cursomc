@@ -1,0 +1,71 @@
+[33mcommit b13da2c361c6b66d39de9235734cf7b17c6d6a53[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Wed Jul 29 17:57:19 2020 -0300
+
+    endpoint /clientes/{id} disponivel
+
+[33mcommit 3e2cdada347bf134dcc57ff33366b3bf611c9571[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Wed Jul 29 17:47:09 2020 -0300
+
+    Cliente , TipoClientes, Telefones e Endereços
+
+[33mcommit 3329456aacdcb3e7d96d79831f2dca7eec6fe172[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 18:43:31 2020 -0300
+
+    iniciando Cliente, TipoCliente, Telefones e Endereços parte 1
+
+[33mcommit 2ef33fe9fd3c38f28ea488afa6514c36cdce3c4d[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 18:18:36 2020 -0300
+
+    Estado e Cidade
+
+[33mcommit ddc892e49e273bf4b6a5a2ced19e8d9027af28ab[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 14:29:57 2020 -0300
+
+    Ajustes no endpoint /categorias/{id}
+
+[33mcommit 19ad8350709684ecddca01446cca6d21ccb177d7[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 14:05:20 2020 -0300
+
+    Classe Produto e assossiação de muitos para muitos
+
+[33mcommit f04301b0c20a4abd7a12be266677a1909465e1e7[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 11:43:38 2020 -0300
+
+    Criando operação de instanciação
+
+[33mcommit ebf66810b41940aa3aaafb34492c8a7f4a8fb56f[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 11:36:14 2020 -0300
+
+    Criando Repository e Service para Categoria
+
+[33mcommit 78e98aa8d1fc0f5671e6515f5f6ec3d96788b27d[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 11:02:03 2020 -0300
+
+    Banco de Dados H2 e criação automatica a partir dos objetos
+
+[33mcommit b7a46b1acb2daf33b44eb047b61897450170d7bd[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 10:43:17 2020 -0300
+
+    Testando a primeira classe de dominio
+
+[33mcommit ed0972da99e4a97ebd6354576437d278a086cef9[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 10:10:05 2020 -0300
+
+    Testando o REST
+
+[33mcommit f8d4d4f298a8300d86e0829d0e0ff256092ff75a[m
+Author: ernanijose <ernanijose@gmail.com>
+Date:   Tue Jul 28 09:53:59 2020 -0300
+
+    Iniciando o Projeto
